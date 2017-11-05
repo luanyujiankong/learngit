@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">classwork</string>
+    <string name="login">账户登录</string>
+    <string name="help">帮助</string>
+    <string name="login_id">用户名</string>
+    <string name="login_hint">请输入用户名</string>
+    <string name="pass">密码</string>
+    <string name="pass_hint">请输入密码</string>
+    <string name="login_but">登录</string>
+    <string name="login_forget_pass">忘记密码</string>
+    <string name="login_resiger">免费注册</string>
+    <string name="back">&#60;</string>
+    <string name="but_taojin">淘货</string>
+    <string name="but_jinshan">海淘</string>
+    <string name="but_fabu">发布</string>
+    <string name="but_message">消息</string>
+    <string name="but_personal">个人</string>
+    <string name="resiger_re">用户注册</string>
+    <string name="message">消息</string>
+    <string name="resiger_name">昵称</string>
+    <string name="resiger_phone">手机号码</string>
+    <string name="resiger_sex">性别</string>
+    <string name="resiger_adress">地址</string>
+    <string name="resiger_res">确认注册</string>
+    <string name="resiger_image">头像</string>
+    <string name="resiger_infomation">简介</string>
+    <string name="resiger_birthday">生日</string>
+    <string name="resiger_email">邮箱</string>
+    <string name="resiger_emailhint">请输入邮箱</string>
+    <string name="my_fabu">我发布的</string>
+    <string name="my_shoucang">我收藏的</string>
+    <string name="my_buy">我买到的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
